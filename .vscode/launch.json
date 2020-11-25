@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "browser-preview",
+            "request": "launch",
+            "name": "Browser Preview: Launch",
+            "url": "https://brave-island-0bfc69f10.azurestaticapps.net/"
+        },
+        {
             "name": "Launch Edge",
             "request": "launch",
             "type": "pwa-msedge",
